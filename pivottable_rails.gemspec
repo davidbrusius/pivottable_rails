@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["brusiusdavid@gmail.com"]
 
   spec.summary       = %q{The pivottable-rails gem integrates the pivottable jQuery plugin with the Rails asset pipeline.}
-  spec.description   = %q{pivottable is a jQuery plugin to build Pivot Table with you data. The `pivottable-rails` gem integrates the `pivottable` jQuery plugin with the Rails asset pipeline.}
+  spec.description   = %q{pivottable is a jQuery plugin to build Pivot Table with your data. The `pivottable-rails` gem integrates the `pivottable` jQuery plugin with the Rails asset pipeline.}
   spec.homepage      = "https://github.com/davidbrusius/pivottable_rails"
   spec.license       = "MIT"
 
