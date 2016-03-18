@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/pivottable_rails.svg)](https://badge.fury.io/rb/pivottable_rails)
+
 # PivottableRails
 
 [pivottable](https://github.com/nicolaskruchten/pivottable) is a jQuery plugin to build Pivot Table with your data.
