@@ -2,7 +2,7 @@
 
 [pivottable](https://github.com/nicolaskruchten/pivottable) is a jQuery plugin to build Pivot Table with you data.
 
-The `pivottable-rails` gem integrates the `pivottable` jQuery plugin with the Rails asset pipeline.
+The `pivottable-rails` gem integrates the `pivottable` jQuery plugin - version 2.0.2 - with the Rails asset pipeline.
 
 ## Installation
 
