@@ -37,9 +37,9 @@
     });
     $.pivotUtilities.locales.pt = {
       localeStrings: {
-        renderError: "Ocorreu um error ao renderizar os resultados da Tabela Din&atilde;mica.",
-        computeError: "Ocorreu um error ao computar os resultados da Tabela Din&atilde;mica.",
-        uiRenderError: "Ocorreu um error ao renderizar a interface da Tabela Din&atilde;mica.",
+        renderError: "Ocorreu um erro ao renderizar os resultados da Tabela Din&atilde;mica.",
+        computeError: "Ocorreu um erro ao computar os resultados da Tabela Din&atilde;mica.",
+        uiRenderError: "Ocorreu um erro ao renderizar a interface da Tabela Din&atilde;mica.",
         selectAll: "Selecionar Tudo",
         selectNone: "Selecionar Nenhum",
         tooMany: "(demais para listar)",
@@ -55,8 +55,6 @@
         "Soma": tpl.sum(frFmt),
         "Soma de Inteiros": tpl.sum(frFmtInt),
         "Média": tpl.average(frFmt),
-        "Mínimo": tpl.min(frFmt),
-        "Máximo": tpl.max(frFmt),
         "Soma sobre Soma": tpl.sumOverSum(frFmt),
         "Limite Superior a 80%": tpl.sumOverSumBound80(true, frFmt),
         "Limite Inferior a 80%": tpl.sumOverSumBound80(false, frFmt),
